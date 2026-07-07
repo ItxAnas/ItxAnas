@@ -6,7 +6,7 @@ I build tools and scripts that automate the boring stuff — web automation, bot
 
 <br>
 
-### 🛠️ Tech Stack
+### Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
@@ -18,7 +18,7 @@ I build tools and scripts that automate the boring stuff — web automation, bot
 
 <br>
 
-### 📫 Connect
+### Connect
 <p align="left">
   <a href="https://github.com/ItxAnas"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
