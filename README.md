@@ -1,26 +1,32 @@
-<div align="center">
+<h1 align="left">Hey, I'm Anas 👋</h1>
 
-# Hi, I'm Anas 👋
+<h3 align="left">Automation Developer</h3>
 
-### Automation Developer
+I build tools and scripts that automate the boring stuff — web automation, bots, workflows, and backend systems.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,nextjs,angular,postgres,mysql,sqlite,docker,git,linux" />
+<br>
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ItxAnas&show_icons=true&hide_border=true&theme=github_dark" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItxAnas&layout=compact&hide_border=true&theme=github_dark" />
+<br>
+
+### 📊 GitHub Stats
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ItxAnas&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItxAnas&layout=compact&hide_border=true" />
 </p>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=ItxAnas&hide_border=true&theme=github-dark-blue" />
+<br>
+
+### 📫 Connect
+<p align="left">
+  <a href="https://github.com/ItxAnas"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
-
-</div>
-
----
-
-### Tech
-
-`Python` • `JavaScript` • `TypeScript` • `Node.js` • `React` • `Next.js` • `Angular` • `Playwright` • `Selenium` • `PostgreSQL` • `MySQL` • `Docker` • `Git` • `Linux`
