@@ -18,14 +18,6 @@ I build tools and scripts that automate the boring stuff — web automation, bot
 
 <br>
 
-### 📊 GitHub Stats
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ItxAnas&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItxAnas&layout=compact&hide_border=true" />
-</p>
-
-<br>
-
 ### 📫 Connect
 <p align="left">
   <a href="https://github.com/ItxAnas"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
